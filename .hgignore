@@ -1,0 +1,9 @@
+syntax: glob
+*~
+*.pyc
+*.pyo
+docs/_build/*
+*egg-info*
+dist/*
+env/*
+.tox
